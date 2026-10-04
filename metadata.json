@@ -1,0 +1,6 @@
+{
+  "name": "BESTIE API Platform",
+  "description": "Fast, powerful, and developer-friendly API platform with API key management, BESTIE Coins credit system, live API tester, documentation, and full admin control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
